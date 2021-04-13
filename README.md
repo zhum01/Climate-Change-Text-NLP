@@ -4,7 +4,7 @@ This project tests out using sentiment scores as an additional feature to the po
 
 # Data 
 
-All data was obtained from Luo et al., 2020 (https://arxiv.org/abs/2010.15149) 
+All data were obtained from Luo et al., 2020 (https://arxiv.org/abs/2010.15149) 
 
 The data set contains 2,050 global-warming-related sentences scraped from online news articles and labeled with {agree, disagree, neutral} with respect to the target opinion: "Climate change/global warming is a serious concern" (see Luo et al., 2020 for more details, such as distribution of news sources and methodology for labeling).
 
